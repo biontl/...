@@ -1,2 +1,3 @@
 # ...
-to learn &amp; communicate
+hi,i am a guy learning c with emacs at ubuntu.
+desire to communicate with someone.
